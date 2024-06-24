@@ -14,7 +14,7 @@ export const Advice = ({data}) => {
     else if (data > 30 ){
         msg = "You have obessed. You need goodiet plan and medical assistance immediately."
     }
-    else {
+     else {
         msg="nothing to say."
     }
     
